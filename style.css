@@ -1,0 +1,89 @@
+/*----- structure ------ */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #B1B7BF;
+}
+header {
+	height: 140px;
+	background-color: #F8E586;
+}
+.wrapper {
+	width: 700px;
+	margin: auto;	
+}
+footer {
+	height: 84px;
+  bottom: 0;
+	background-color: #403933;
+  position: aboslute;
+}
+
+
+
+
+/* ------ header ------ */
+header h1 {
+	font-family: American typewriter;
+	color: #B1B7BF;
+	margin: 0px;
+	padding-top: 20px;
+	font-size: 40px;
+	text-align:center;
+}
+header h2 {
+	font-family: American typewriter;
+	color: #B1B7BF;
+	margin: 0px;
+	padding-top: 0px;
+  padding-bottom: 20px;
+	font-size: 26px;
+	text-align:center;
+}
+
+/* ------ body ------ */
+h3 {
+  font-family: American typewriter;
+	color: #F8E586;
+	margin: 0px;
+	padding-top: 0px;
+	font-size: 24px;
+	text-align:center;
+}
+p, ul, ol {
+  font-family: Arial, Helvetica, sans-serif;
+	color: black;
+	margin: 10px;
+	padding-top: 5px;
+	font-size: 15px;
+	text-align:left;
+}
+
+/* ------ links ------ */
+a:link { color: #F8E586; }
+a:visited { color: green; }
+a:hover { color: #F8E586; }
+a:active { color: green; }
+
+
+/* ------ image & div references----- */
+img {
+  display: block;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.small {
+  height: 5px;
+  width: auto;
+}
+hr {
+  border: 2px solid #F8E586;
+}
+
+
+/* ------ footer ------ */
+footer h3 {
+  padding-top: 30px;
+	color: #F8E586;	
+}
