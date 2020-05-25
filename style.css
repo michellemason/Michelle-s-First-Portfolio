@@ -2,11 +2,11 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #B1B7BF;
+  background-color: #E0E2DB;
 }
 header {
 	height: 140px;
-	background-color: #F8E586;
+	background-color: #4D7750;
 }
 .wrapper {
 	width: 700px;
@@ -44,7 +44,7 @@ header h2 {
 /* ------ body ------ */
 h3 {
   font-family: American typewriter;
-	color: #F8E586;
+	color: #4D7750;
 	margin: 0px;
 	padding-top: 0px;
 	font-size: 24px;
@@ -60,10 +60,10 @@ p, ul, ol {
 }
 
 /* ------ links ------ */
-a:link { color: #F8E586; }
-a:visited { color: green; }
-a:hover { color: #F8E586; }
-a:active { color: green; }
+a:link { color: #4D7750; }
+a:visited { color: 92AC7C; }
+a:hover { color: #4D7750; }
+a:active { color: 92AC7C; }
 
 
 /* ------ image & div references----- */
@@ -85,5 +85,5 @@ hr {
 /* ------ footer ------ */
 footer h3 {
   padding-top: 30px;
-	color: #F8E586;	
+	color: #4D7750;	
 }
